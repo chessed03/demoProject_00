@@ -1,1 +1,1 @@
-<h1>Hola mundo, estoy usando laravel</h1>
+<h1>Hola mundo, estoy usando laravel para pruebas</h1>
