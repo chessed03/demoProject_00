@@ -1,0 +1,1 @@
+<h1>Hola mundo, estoy usando laravel</h1>
